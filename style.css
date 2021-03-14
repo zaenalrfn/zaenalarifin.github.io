@@ -1,0 +1,21 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c2d8fa;
+  background-attachment: fixed;
+}
+#projects {
+  background-color: #c2d8fa;
+}
+
+section{
+	padding-top: 8rem;
+}
+#projects .card:hover{
+	box-shadow: 0 5px 10px grey;
+}
+#Darkmode{
+	background-color: black;
+	color: white;
+}
