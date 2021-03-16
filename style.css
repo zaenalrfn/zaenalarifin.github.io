@@ -1,5 +1,3 @@
-
-
 .jumbotron {
   padding-top: 6rem;
   background-color: #c2d8fa;
@@ -8,14 +6,19 @@
 #projects {
   background-color: #c2d8fa;
 }
-
-section{
-	padding-top: 8rem;
+#contact {
+  background-color: #c2d8fa;
 }
-#projects .card:hover{
-	box-shadow: 0 5px 10px grey;
+section {
+  padding-top: 8rem;
 }
-.darkmode{
-	background-color: black;
-	color: white;
+#projects .card:hover {
+  box-shadow: 0 5px 10px #eaeaea;
+}
+#sertivikat .card:hover {
+  box-shadow: 0 5px 10px #eaeaea;
+}
+.darkmode {
+  background-color: black;
+  color: white;
 }
