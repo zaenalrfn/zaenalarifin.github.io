@@ -15,7 +15,7 @@ section{
 #projects .card:hover{
 	box-shadow: 0 5px 10px grey;
 }
-#Darkmode{
+.darkmode{
 	background-color: black;
 	color: white;
 }
